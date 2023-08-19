@@ -9,8 +9,7 @@ redirect_from:
 ---
 
 Hello!
-
-I am Rui Xu, a first-year Ph.D. student at the Hong Kong University of Science and Technology (Guangzhou) in the Artificial Intelligence Hub, advised by [Sihong XIE](http://ait.hkust-gz.edu.cn/archives/1375). I am funded by Postgraduate Studentship Award.
+I am Rui Xu, a first-year Ph.D. student at the Hong Kong University of Science and Technology (Guangzhou) in the Artificial Intelligence Hub, advised by [Sihong XIE](http://ait.hkust-gz.edu.cn/archives/1375) and funded by Postgraduate Studentship Award.
 
 Current Research Interests
 ------
