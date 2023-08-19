@@ -24,7 +24,7 @@ Facing serious wildfire background in the US, especially in high-risk places lik
 
 For our technical part, we developed a wildfire detection system and a wildfire evacuation system. These two systems are aimed to accomplish the series goals of early and accurate forecasting (Left Figure), rapid detection, early warning, and early evacuation by wildfire prediction model (Left Figure) and drone path planning model (Right Figure). Specific results and figures prove that our systems will shorten fire stations’ reaction time and improve drones’ efficiency greatly. In the future, we will continue to develop the wildfire forecaster model to finish it and create related applications that can be easily accessible to common people. Also, the UAVs' path planning algorithm still has the potential to be enhanced in order to achieve even higher efficiency. Meanwhile, more precise geological and weather information can improve the accuracy of wildfire spread prediction.
 
-<img src="/images/FirePrediction.jpg" alt="image for fire" width="450" align="left">
-<img src="/images/UAV.jpg" alt="image for UAV" width="250" > 
+<img src="/images/FirePrediction.jpg" alt="image for fire" width="400" align="left">
+<img src="/images/UAV.jpg" alt="image for UAV" width="200" > 
 <br />
 <br />
