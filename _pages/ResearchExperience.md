@@ -11,4 +11,4 @@ As an essential organ, the bladder serves as a container for the urinary. The ti
 
 This project focuses on a physical system for a panorama camera system that can image all 360 degrees of the bladder.  This system can take photos from two angles, thus allowing 3D strain measurements for only a small portion of the sample upon which the two photos overlapped. Further research on surface strains and pressure in the bladder deformation process contributes to a better understanding of underlying bio-mechanism.
 
-![image for camera system](images)
+![image for camera system](images/camerasystem.jpg)
