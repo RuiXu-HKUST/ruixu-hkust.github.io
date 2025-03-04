@@ -13,7 +13,9 @@ I am Rui Xu, a first-year Ph.D. student at the Hong Kong University of Science a
 
 Current Research Interests
 ------
-My main research focuses on Physics-Informed Neural Networks (PINNs). I am working on the combination of uncertainty analysis and PINNs to compute partial differential equations with stochastic measurements as inputs.  My interests also include optimization methodologies, such as active learning and self-adaptive weighting, to improve PINNs' efficiency and accuracy. Meanwhile, I am seeking to apply PINNs to solve real-world problems, like traffic state estimation and robotic control.
+My primary research revolves around Uncertainty Quantification (UQ), with a strong focus on Conformal Prediction (CP). I am particularly interested in enhancing the adaptiveness of CP, especially under distribution shifts, to ensure reliable uncertainty estimation in dynamic and evolving data environments.
+
+Additionally, I am exploring the integration of CP with diverse data modalities, including natural language, images, and multi-modal datasets, aiming to expand its applicability across various domains. I am also actively engaged in real-world applications of CP, collaborating with hospitals and industry partners to develop robust CP techniques tailored for multi-center scenarios, ensuring reliability and fairness in practical deployments. 
 
 Education
 ------
